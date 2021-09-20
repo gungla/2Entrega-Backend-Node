@@ -1,5 +1,5 @@
-# Ecommerce API 
-## Ecommerce API using Express and Typescript
+# Ecommerce Backend 
+## Ecommerce API - Express - Typescript
 
 ## Scripts
 - npm install  
