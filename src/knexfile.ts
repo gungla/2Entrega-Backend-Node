@@ -4,10 +4,10 @@ export default {
 	productsmysql: {
 		client: 'mysql',
 		connection: {
-			host: '192.168.64.2',
-			user: 'josue',
-			password: 'josue',
-			database: 'e-commerce',
+			host: 'localhost',
+			user: 'admnin',
+			password: 'admin',
+			database: 'ecommerce',
 		},
 		migrations: { directory: __dirname + '/db/migrations' },
 		seeds: { directory: __dirname + '/db/seeds' },

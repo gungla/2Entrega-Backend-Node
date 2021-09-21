@@ -3,9 +3,9 @@ import knex from 'knex';
 export async function seed(knex) {
 	const initProducts = [
 		{
-			title: 'Naranjita',
-			description: 'sdjasdjoasjdoasdojasd',
-			code: 'codeigo_1254',
+			title: 'Manzana',
+			description: 'esto es una manzana',
+			code: 'codigo_1234',
 			price: 100,
 			thumbnail: 'https://iconfinder.com',
 			stock: 45,
